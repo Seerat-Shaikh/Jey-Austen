@@ -1,0 +1,16 @@
+{
+    "name": "Jey Austus",
+    "version": "1.0.0",
+    "description": "Website",
+    "main": "index.js",
+    "scripts": {
+        
+        "compile:sass": "node-sass sass/main.scss css/style.comp.css -w"
+    },
+    "author": "seerat",
+    "license": "ISC",
+    "dependencies": {
+        "live-server": "^1.2.2",
+        "node-sass": "^8.0.0"
+    }
+}
